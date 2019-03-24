@@ -67,5 +67,5 @@ dependencies:
     - tornado==5.1.1
     - urllib3==1.24.1
     - wcwidth==0.1.7
-prefix: /lab/corradin_data/FOR_AN/anaconda3/envs/hail
+#prefix: /lab/corradin_data/FOR_AN/anaconda3/envs/hail
 
